@@ -16,4 +16,4 @@ This is a simple portfolio design created using HTML, CSS, and JavaScript to imp
 
 
 ---
-- 📫 How to reach me **vaibhavkubde2003@gmail.com** ❤️
+- 📫 How to reach me **yogeshygajare@gmail.com** ❤️
